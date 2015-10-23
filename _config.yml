@@ -1,0 +1,23 @@
+name: Climate for Change Pledge
+favicon: null
+layout_spectrum: 0.06350059132091701
+typography_spectrum: 0.7949001484084874
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.4569183031562716
+  lightness: 0.3760473111178726
+  saturation: 0.724490734981373
+  rhythmicContrast: 0.7431410881690681
+purpose: []
